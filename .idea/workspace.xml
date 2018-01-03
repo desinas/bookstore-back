@@ -2,139 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efb4f712-87b0-4b04-9c3c-8efde3e7caa0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_core_1_3_15_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_builder_support_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_invoker_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_arquillian_spacelift_arquillian_spacelift_1_0_0_Alpha8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_arquillian_spacelift_arquillian_spacelift_api_1_0_0_Alpha8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_api_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_connector_basic_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_impl_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_spi_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_transport_wagon_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_1_0_2_v20150114.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_container_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_junit_arquillian_junit_core_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_1_1_13_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_invocation_jboss_invocation_1_4_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_dmr_1_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_vfs_3_2_11_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_2_0_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_4_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_4_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_5_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_2_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_remoting_jboss_remoting_4_0_18_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_2_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_sasl_jboss_sasl_1_0_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_impl_base_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_archive_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_embedded_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_archive_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_embedded_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_archive_3_0_0_alpha_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_staxmapper_1_2_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_stdio_jboss_stdio_1_0_2_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_2_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picketbox_picketbox_4_9_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_common_2_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_container_remote_2_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_protocol_jmx_2_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_arquillian_wildfly_arquillian_testenricher_msc_2_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_common_wildfly_common_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_controller_client_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_core_security_api_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_deployment_repository_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_http_interface_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_domain_management_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_io_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_jmx_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_network_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_platform_mbean_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_process_controller_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_protocol_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_remoting_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_self_contained_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_server_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_core_wildfly_version_2_0_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_security_wildfly_elytron_1_0_2_Final.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/.gitkeep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back.war" afterPath="$PROJECT_DIR$/target/bookstore-back.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" afterPath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/model/Book.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="$PROJECT_DIR$/target/bookstore-back/WEB-INF/classes/com/pluralsight/bookstore/repository/BookRepository.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Book.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/model/Book.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/repository/BookRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/bookstore/repository/BookRepository.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/repository/BookRepositoryTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bookstore/repository/BookRepositoryTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookstore-back.iml" afterPath="$PROJECT_DIR$/bookstore-back.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/repository/BookRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/repository/BookRepository.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/bookstore-back/index.html" afterPath="$PROJECT_DIR$/target/bookstore-back/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.repository.BookRepositoryTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.pluralsight.bookstore.repository.BookRepositoryTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.repository.BookRepositoryTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.pluralsight.bookstore.repository.BookRepositoryTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test-persistence.xml" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/test-persistence.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,7 +56,38 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1495611074000" expanded="true" signature="549:1062" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1090:1455" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1113:1427" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1138:1403" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1475:2632" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1496:1678" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1722:1904" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="1925:2117" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2138:2349" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2370:2612" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2645:5477" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2710:5464" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2731:3125" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2888:3103" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="2934:3070" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3146:3627" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3340:3605" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3462:3572" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3648:3961" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3837:3939" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="3982:5099" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4175:5077" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4207:5047" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4287:4366" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4406:5014" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4579:4973" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="4626:4928" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="5120:5445" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="5256:5423" ph="..." />
+                <marker date="1495611074000" expanded="true" signature="5293:5390" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,8 +95,8 @@
       <file leaf-file-name="BookRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/repository/BookRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="272">
+              <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -183,9 +105,51 @@
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="225">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <marker date="1495531144000" expanded="true" signature="1229:1362" ph="//..." />
+                <marker date="1495531144000" expanded="true" signature="1382:1389" ph="{}" />
+                <marker date="1495531144000" expanded="true" signature="1547:1834" ph="{...}" />
+                <marker date="1495531144000" expanded="true" signature="1840:1973" ph="//..." />
+                <marker date="1495531144000" expanded="false" signature="1999:2010" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2020:2026" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2058:2069" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2082:2088" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2118:2129" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2142:2148" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2188:2199" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2218:2224" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2260:2271" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2290:2296" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2348:2359" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2390:2396" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2428:2439" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2455:2461" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2506:2517" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2542:2548" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2577:2588" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2600:2606" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2644:2655" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2672:2678" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2716:2727" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2750:2756" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2814:2825" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2864:2870" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2905:2916" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="2932:2938" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="2986:2997" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="3022:3028" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="3063:3074" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="3091:3097" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="3146:3157" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="3184:3190" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="3223:3234" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="3250:3256" ph=" }" />
+                <marker date="1495531144000" expanded="false" signature="3301:3312" ph=" { " />
+                <marker date="1495531144000" expanded="false" signature="3336:3342" ph=" }" />
+                <marker date="1495531144000" expanded="true" signature="3348:3481" ph="//..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,8 +157,8 @@
       <file leaf-file-name="BookRepositoryTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-344">
-              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="-104">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -223,8 +187,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="180">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -266,7 +230,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
     <option name="y" value="43" />
-    <option name="width" value="1391" />
+    <option name="width" value="1378" />
     <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -693,12 +657,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514946693260</updated>
       <workItem from="1514946697413" duration="3638000" />
-      <workItem from="1514968123489" duration="10499000" />
+      <workItem from="1514968123489" duration="12286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14137000" />
+    <option name="totallyTimeSpent" value="15924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -710,11 +674,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="43" width="1391" height="833" extended-state="0" />
+    <frame x="29" y="43" width="1378" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298292" sideWeight="0.50251615" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298292" sideWeight="0.50290275" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -732,12 +696,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5814286" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298292" sideWeight="0.49748382" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298292" sideWeight="0.49709725" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21711" sideWeight="0.4392157" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21711" sideWeight="0.56078434" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2191582" sideWeight="0.4392157" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2191582" sideWeight="0.56078434" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -765,7 +729,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1495611074000" expanded="true" signature="549:1062" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1090:1455" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1113:1427" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1138:1403" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1475:2632" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1496:1678" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1722:1904" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1925:2117" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2138:2349" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2370:2612" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2645:5477" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2710:5464" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2731:3125" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2888:3103" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2934:3070" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3146:3627" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3340:3605" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3462:3572" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3648:3961" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3837:3939" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3982:5099" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4175:5077" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4207:5047" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4287:4366" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4406:5014" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4579:4973" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4626:4928" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5120:5445" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5256:5423" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5293:5390" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -789,14 +784,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1495611074000" expanded="true" signature="549:1062" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1090:1455" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1113:1427" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1138:1403" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1475:2632" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1496:1678" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1722:1904" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="1925:2117" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2138:2349" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2370:2612" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2645:5477" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2710:5464" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2731:3125" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2888:3103" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="2934:3070" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3146:3627" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3340:3605" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3462:3572" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3648:3961" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3837:3939" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="3982:5099" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4175:5077" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4207:5047" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4287:4366" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4406:5014" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4579:4973" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="4626:4928" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5120:5445" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5256:5423" ph="..." />
+            <marker date="1495611074000" expanded="true" signature="5293:5390" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/repository/BookRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="272">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -827,24 +853,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/bookstore/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <marker date="1495531144000" expanded="true" signature="1229:1362" ph="//..." />
+            <marker date="1495531144000" expanded="true" signature="1382:1389" ph="{}" />
+            <marker date="1495531144000" expanded="true" signature="1547:1834" ph="{...}" />
+            <marker date="1495531144000" expanded="true" signature="1840:1973" ph="//..." />
+            <marker date="1495531144000" expanded="false" signature="1999:2010" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2020:2026" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2058:2069" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2082:2088" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2118:2129" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2142:2148" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2188:2199" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2218:2224" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2260:2271" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2290:2296" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2348:2359" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2390:2396" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2428:2439" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2455:2461" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2506:2517" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2542:2548" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2577:2588" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2600:2606" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2644:2655" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2672:2678" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2716:2727" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2750:2756" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2814:2825" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2864:2870" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2905:2916" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="2932:2938" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="2986:2997" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="3022:3028" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="3063:3074" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="3091:3097" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="3146:3157" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="3184:3190" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="3223:3234" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="3250:3256" ph=" }" />
+            <marker date="1495531144000" expanded="false" signature="3301:3312" ph=" { " />
+            <marker date="1495531144000" expanded="false" signature="3336:3342" ph=" }" />
+            <marker date="1495531144000" expanded="true" signature="3348:3481" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pluralsight/bookstore/repository/BookRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="-104">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding />
         </state>
       </provider>

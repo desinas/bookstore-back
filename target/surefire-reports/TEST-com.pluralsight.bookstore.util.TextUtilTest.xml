@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bookstore.repository.BookRepositoryTest" time="5.131" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bookstore.util.TextUtilTest" time="0.003" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="9.0.1+11"/>
@@ -64,19 +64,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="shouldBeDeployed" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.318"/>
-  <testcase name="shouldGetNoBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.051"/>
-  <testcase name="shouldCreateABook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.062"/>
-  <testcase name="shouldFindTheCreatedBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.03"/>
-  <testcase name="shouldGetOneBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.025"/>
-  <testcase name="shouldDeleteTheCreatedBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.033"/>
-  <testcase name="shouldGetNoMoreBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.037"/>
-  <testcase name="shouldFailCreatingANullBook" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.174"/>
-  <testcase name="shouldFailCreatingABookWithNullTitle" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.043"/>
-  <testcase name="shouldFailCreatingABookWithLowUnitCostTitle" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.065"/>
-  <testcase name="shouldNotFailCreatingABookWithNullISBN" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.029"/>
-  <testcase name="shouldFailInvokingFindByIdWithNull" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.041"/>
-  <testcase name="shouldNotFindUnknownId" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.025"/>
-  <testcase name="shouldFailInvokingDeleteByIdWithNull" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.048"/>
-  <testcase name="shouldNotDeleteUnknownId" classname="com.pluralsight.bookstore.repository.BookRepositoryTest" time="0.027"/>
+  <testcase name="shouldSanitize" classname="com.pluralsight.bookstore.util.TextUtilTest" time="0.003"/>
 </testsuite>

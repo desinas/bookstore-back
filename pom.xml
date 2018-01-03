@@ -2,11 +2,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.pluralsight.javaee-getting-started.javaee-getting-started-m6</groupId>
+    <groupId>com.pluralsight.javaee-getting-started.javaee-getting-started-m8</groupId>
     <artifactId>bookstore-back</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>Getting Started :: javaee-getting-started-m6 :: Testing the Repository :: Back</name>
+    <name>Getting Started :: javaee-getting-started-m8 :: Injecting Beans :: Back</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>

@@ -2,6 +2,9 @@ package com.pluralsight.bookstore.repository;
 
 import com.pluralsight.bookstore.model.Book;
 import com.pluralsight.bookstore.model.Language;
+import com.pluralsight.bookstore.util.IsbnGenerator;
+import com.pluralsight.bookstore.util.NumberGenerator;
+import com.pluralsight.bookstore.util.TextUtil;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.arquillian.junit.InSequence;
@@ -38,6 +41,12 @@ public class BookRepositoryTest {
     @Inject
     private BookRepository bookRepository;
 
+    @Inject
+    private IsbnGenerator isbnGenerator;
+
+    @Inject
+    private TextUtil textUtil;
+
     // ======================================
     // =             Deployment             =
     // ======================================
@@ -49,6 +58,9 @@ public class BookRepositoryTest {
             .addClass(Book.class)
             .addClass(Language.class)
             .addClass(BookRepository.class)
+            .addClass(NumberGenerator.class)
+            .addClass(IsbnGenerator.class)
+            .addClass(TextUtil.class)
             .addAsManifestResource(EmptyAsset.INSTANCE, "beans.xml")
             .addAsManifestResource("META-INF/test-persistence.xml", "persistence.xml");
     }
@@ -61,6 +73,8 @@ public class BookRepositoryTest {
     @InSequence(1)
     public void shouldBeDeployed() {
         assertNotNull(bookRepository);
+        assertNotNull(isbnGenerator);
+        assertNotNull(textUtil);
     }
 
     @Test
@@ -76,7 +90,7 @@ public class BookRepositoryTest {
     @InSequence(3)
     public void shouldCreateABook() {
         // Creates a book
-        Book book = new Book("isbn", "title", 12F, 123, Language.ENGLISH, new Date(), "imageURL", "description");
+        Book book = new Book("isbn", "a   title", 12F, 123, Language.ENGLISH, new Date(), "imageURL", "description");
         book = bookRepository.create(book);
         // Checks the created book
         assertNotNull(book);
@@ -91,7 +105,8 @@ public class BookRepositoryTest {
         Book bookFound = bookRepository.find(bookId);
         // Checks the found book
         assertNotNull(bookFound.getId());
-        assertEquals("title", bookFound.getTitle());
+        assertTrue(bookFound.getIsbn().startsWith("13-84356-"));
+        assertEquals("a title", bookFound.getTitle());
     }
 
     @Test
@@ -121,4 +136,53 @@ public class BookRepositoryTest {
         // Find all
         assertEquals(0, bookRepository.findAll().size());
     }
+
+    @Test(expected = Exception.class)
+    @InSequence(10)
+    public void shouldFailCreatingANullBook() {
+        bookRepository.create(null);
+    }
+
+    @Test(expected = Exception.class)
+    @InSequence(11)
+    public void shouldFailCreatingABookWithNullTitle() {
+        bookRepository.create(new Book("isbn", null, 12F, 123, Language.ENGLISH, new Date(), "imageURL", "description"));
+    }
+
+    @Test(expected = Exception.class)
+    @InSequence(12)
+    public void shouldFailCreatingABookWithLowUnitCostTitle() {
+        bookRepository.create(new Book("isbn", "title", 0F, 123, Language.ENGLISH, new Date(), "imageURL", "description"));
+    }
+
+    @Test
+    @InSequence(13)
+    public void shouldNotFailCreatingABookWithNullISBN() {
+        Book bookFound = bookRepository.create(new Book(null, "title", 12F, 123, Language.ENGLISH, new Date(), "imageURL", "description"));
+        assertTrue(bookFound.getIsbn().startsWith("13-84356-"));
+    }
+
+    @Test(expected = Exception.class)
+    @InSequence(14)
+    public void shouldFailInvokingFindByIdWithNull() {
+        bookRepository.find(null);
+    }
+
+    @Test
+    @InSequence(15)
+    public void shouldNotFindUnknownId() {
+        assertNull(bookRepository.find(99999L));
+    }
+
+    @Test(expected = Exception.class)
+    @InSequence(16)
+    public void shouldFailInvokingDeleteByIdWithNull() {
+        bookRepository.delete(null);
+    }
+    @Test(expected = Exception.class)
+    @InSequence(17)
+    public void shouldNotDeleteUnknownId() {
+        bookRepository.delete(99999L);
+    }
+
 }
