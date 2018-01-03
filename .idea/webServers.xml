@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3deee831-4491-4101-b5f7-bd6b8926ae86" name="JBoss-WildFly" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="/Applications/JavaEEtools/JBoss/wildfly-11.0.0.Final" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="/Applications/JavaEEtools/JBoss/wildfly-11.0.0.Final/bin" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
